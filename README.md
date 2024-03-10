@@ -1,0 +1,1 @@
+Firmware for a ultra-low-power pulse counting device on reflective surfaces using an infrared emitter-receiver. Developed with a Bare Metal approach on an ATtiny1616 microcontroller, operating at 32768 Hz and deep sleep mode.
